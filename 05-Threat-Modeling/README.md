@@ -11,3 +11,8 @@ This hands-on workshop will cover the threat modeling workflow, common classes o
 4. System Assets
 5. Threat Modeling Diversity
 6. Hands on example
+
+### Training Pre-requisities 
+1. General security knowledge required
+2. A good understanding of web application design and development
+3. Access to a collaborative online document editing tool (Google Doc, Dropbox Paper, Atlassian Confluence, etc)
