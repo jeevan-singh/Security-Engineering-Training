@@ -9,5 +9,5 @@ Agenda
 * What is risk?
 * Exercises
 
-Training Prerequisities
+Training Prerequisites
 * None - this is an introductory module and doesn't require any background readings
