@@ -5,9 +5,8 @@ Agenda
 * Introductions
 * History of Security Engineering
 * Disciplines within Security Engineering
-* Secure Development Lifecycle (SDL)
 * How to be a successful Security Engineer
-* Security Culture
+* What is risk?
 * Exercises
 
 Training Prerequisities
