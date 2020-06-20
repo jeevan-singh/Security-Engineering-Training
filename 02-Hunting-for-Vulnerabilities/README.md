@@ -3,9 +3,9 @@ Have you ever wanted a hack a website (legally)? Did you want to see the types o
 
 Agenda
 * Introduction
-* OWASP Juice Shop Architecture
-* Work through some examples together
-* Workshop exercises
+* Web application architecture
+* OWASP Juice Shop
+* Hands on exercises
 
 Training Prerequisities
-* Must be able to have fun
+* Firefox browser must be installed

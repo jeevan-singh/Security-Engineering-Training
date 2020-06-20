@@ -3,11 +3,11 @@ There are a lot of little things that you need to be aware of when working as a 
 
 ### Agenda
 * Establishing Requirements
-* Discussing software design
+* Discussing Software Design
 * Deep dive into Security Culture
-* When should you solve a problem top down?
+* When to solve a problem top down?
 * How to spend your budget?
 * Never let a breach go to waste
 
 ### Training Prerequisites 
-* No prerequisites 
+* None 

@@ -1,5 +1,5 @@
 # Securing an Opportunity
-We have went through all of the modules for the Introduction to Security Engineering, but now what?  How can I leverage what I have learned into a full career in Security?
+We have went through all of the training modules, but now what?  How can I leverage what we have learned here to get a career in Security?
 
 ### Agenda
 * What do I really want to do?

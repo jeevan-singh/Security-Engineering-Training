@@ -1,5 +1,5 @@
 # Secure Code Review
-Now that we are aware of the different ways that an adversary can attack us, what can we do to help strengthen our security and prevent attacks? This workshop will cover types of vulnerabilities and discuss methods to protect against those vulnerabilities.
+A big aspect of Security Engineering is to prevent vulnerabilities before they are deployed to a production system.  Performing a Secure Code Review will reduce potential issues.  This workshop will cover different types of vulnerability classes and discuss some defensive techniques.
 
 Agenda
 * Introduction
@@ -13,5 +13,5 @@ Agenda
 * Code review exercise
 
 Training Prerequisites
+* Should have a basic understanding of web application architecture
 * Should be able to read code
-* Should have an understanding of web application architecture

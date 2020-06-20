@@ -1,5 +1,5 @@
 # Cloud and Corporate Security
-As much as the Application and Product Security Engineers would love to think that their work is all encompassing, there are other types of Security Engineers.  In this training, we will cover the very important roles of a Cloud and Corporate Security Engineers.  Their roles are critical within an organization and it is important that everyone understands what they do and how they help build up a company's security posture.
+As much as the Application and Product Security Engineers would love to think that their work is all encompassing, there are other careers within Security Engineering.  In this training, we will cover Cloud and Corporate Security Engineering roles and the type of impact they make within an organization. 
 
 ### Agenda
 * Introduction

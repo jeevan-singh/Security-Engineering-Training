@@ -8,8 +8,7 @@ This hands-on workshop will cover the threat modeling workflow, common classes o
 * Process overview
 * Deep dive into threats (STRIDE)
 * System Assets
-* Threat Modeling Diversity
-* Hands on example
+* Diversity
 
 ### Training Prerequisites 
 * General security knowledge required
