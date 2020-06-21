@@ -4,6 +4,7 @@ There are a lot of little things that you need to be aware of when working as a 
 ### Agenda
 * Establishing Requirements
 * Discussing Software Design
+* Dr. No
 * Deep dive into Security Culture
 * When to solve a problem top down?
 * How to spend your budget?
