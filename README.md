@@ -20,7 +20,7 @@ As mentioned, breaking into Security is very hard, but this training can be your
 ## Training Modules
 
 | Number | Training | Is Technical? | Length (hours) |
-|:--------|:----------|:----------------|
+|:--------|:----------|:----------------|:----------------|
 | 1 | Introduction to Security Engineering | No | 1.5 |
 | 2 | Securing an opportunity | No | 1.0 |
 | 3 | Security Engineering Philosophies | No | 1.0 |
