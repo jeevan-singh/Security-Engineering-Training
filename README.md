@@ -6,7 +6,9 @@ I have been bitten by the Security bug very early on in my career, but I didn't 
 
 The purpose of this training is to consolidate my understanding of this field and to share it with the next generation of Security Engineers.  I have found `signals` among the noise and I want to reduce the time that it will take for others to find signals.
 
-The secondary purpose is to expose you to the field of Security Engineering.  Many folks approach me and ask `How can I become a Security Engineer?`, but the question that they should ask is `Should I become a Security Engineer?`.  This training will help guide you toward an answer.  
+The secondary purpose is to expose more people to the field of Security Engineering, ideally attracting those of minority groups.  The more diversity we have in Security, the better our industry becomes and stronger our company's security posture.  I go into that in much more detail in my Threat Modeling training
+
+I also have many folks approach me and ask `How can I become a Security Engineer?`, but the question that they should ask is `Should I become a Security Engineer?`.  This training will help guide you toward an answer.  
 
 If you do enjoy the training and want to move forward in the field, we will talk about the different strategies you can use to break in.  It is very difficult to break into Security, but there are tips and techniques that will help you make the transition.
 
@@ -25,5 +27,6 @@ No, this training is provided by a random person (me) on the internet and I am n
 | 6 | Security Tooling | 2 |
 | 7 | Cloud and Corporate Security | 1.5 |
 | 8 | Securing an opportunity | 1 |
+
 
 
