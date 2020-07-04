@@ -1,7 +1,7 @@
 # Disciplines Exercise
 In this second exercise, let's figure out which type of Security Engineer should be performing the task.
 
-Types of Security Engineers:
+*Types of Security Engineers*
 1. Application Security Engineer
 2. Product Security Engineer
 3. Cloud Security Engineer
@@ -9,7 +9,7 @@ Types of Security Engineers:
 5. Incident Response Engineer
 6. Security Culture and Awareness 
 
-Tasks
+*Tasks*
 01. Teaching the organization about phishing
 02. Offboarding employees when they quit 
 03. Writing software for adding multi-factor authentication when logging in
