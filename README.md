@@ -22,13 +22,13 @@ As mentioned, breaking into Security is very hard, but this training can be your
 | Number | Training | Is Technical? | Length (hours) |
 |:--------|:----------|:----------------|:----------------|
 | 1 | [Introduction to Security Engineering](01-Intro-to-Security-Engineering) | No | 1.5 |
-| 2 | Security Philosophies and Culture | No | 1.0 |
-| 3 | Securing an opportunity | No | 1.0 |
-| 4 | Threat Modeling | No | 2.5 |
-| 5 | Hunting for Vulnerabilities | Yes | 2.5 |
-| 6 | Secure Code Review | Yes | 1.0 |
-| 7 | Security Tooling | Yes | 2.0 |
-| 8 | Cloud and Corporate Security | Yes | 1.5 |
+| 2 | [Security Philosophies and Culture](02-Security-Philosophies-and-Culture) | No | 1.0 |
+| 3 | [Securing an opportunity](03-Securing-an-opportunity) | No | 1.0 |
+| 4 | [Threat Modeling](04-Threat-Modeling) | No | 2.5 |
+| 5 | [Hunting for Vulnerabilities](05-Hunting-for-Vulnerabilities) | Yes | 2.5 |
+| 6 | [Secure Code Review](06-Secure-Code-Review) | Yes | 1.0 |
+| 7 | [Security Tooling](07-Security-Tooling) | Yes | 2.0 |
+| 8 | [Cloud and Corporate Security](08-Cloud-and-Corporate-Security) | Yes | 1.5 |
 
 ## Prerequities
 This training will be the beginning of your journey and the goal is to help establish a base.  You will need skills and the strength to carry yourself forward on the rest of your journey.
