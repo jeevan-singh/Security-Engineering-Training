@@ -34,7 +34,7 @@ We store their credit card information for the future transactions because we wa
 The architecture of the system is very simple and straightforward.  There are five different components.
 
 **Diagram**
-![alt text](https://raw.githubusercontent.com/jssaini/Threat-Modeling-Workshop/master/01%20-%20Payments%20Exercise/payments.architecture.png "Payments Architecture")
+![Payments Architecture](payments.architecture.png)
 
 ### 1 - Gateway API
 Gateway API has two sets of responsibilities:
@@ -136,7 +136,7 @@ _Names of the folks in your group_
 * Review the diagram and use STRIDE to discover threats/concerns/risks
 
 ### Diagram
-![alt text](https://raw.githubusercontent.com/jssaini/Threat-Modeling-Workshop/master/01%20-%20Payments%20Exercise/payments.architecture.numbered.png "Payments Architecture")
+![Payments Architecture](payments.architecture.numbered.png)
 The diagram has numbers, which are different areas that you can look for threats.  
 
 1. Are there concerns between a Tenant Admin and the Gateway API?
