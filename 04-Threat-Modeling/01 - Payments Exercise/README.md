@@ -98,7 +98,7 @@ There are some interesting security controls that are in place for the Payment S
 
 **Authentication**
 * UpdatePayment API call requires a system generated API token 
-* We have a token to connect with VISA stored in Chamber
+* We have a token to connect with VISA stored in a proper secrets store
 
 **Denial of Service**
 * Max 100 API calls per minute per user to protect against denial of service attacks from a client
@@ -166,7 +166,7 @@ _Security controls have been highlighted in green below, feel free to add your t
 
 #### Spoofing
 * _Billing Service validates that the token is valid_
-* _Billing Service uses a token stored in Chamber to connect with VISA_
+* _Billing Service uses a token stored in a secrets store to connect with VISA_
 * Example bad thing that might happen
 
 #### Tampering
